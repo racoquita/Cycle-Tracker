@@ -1,0 +1,51 @@
+html{
+	background-color: #000000;
+}
+
+body{
+	 margin-top: 0;
+	 padding-top: 0;
+	 background-color: #000000;	
+}
+
+/*-------------wrapper--------------*/
+#wrapper {
+			
+			width: 960px;
+			margin: 0 auto;
+			/* background: #CCCCCC; */
+			padding: 0px;
+}
+/*-------------------------- Main heading -------------------*/
+#header {
+	font-size: 14px;
+	text-transform: uppercase;
+	line-height: 36%;
+ 	float: left; 
+	margin-left: 0;
+	color: #EC098D;
+	color: white;
+	width: 960px;
+}
+#content{ 
+   	
+	margin: 0 auto;
+	font-size: 14px;
+	
+}
+
+/*
+#myAlternativeContent{
+	margin: 0 auto;
+	padding-top: 5px;
+}
+#myAlternativeContent a{
+	font-size: 14px;
+	text-transform: uppercase;
+	display: block
+	float: left
+}
+*/
+
+
+
